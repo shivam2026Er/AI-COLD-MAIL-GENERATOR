@@ -32,7 +32,7 @@ const LandingPage = () => {
                     <div className="flex justify-between items-center h-20">
                         <div className="flex items-center">
                             <span className="text-2xl font-black bg-gradient-to-r from-primary-600 to-indigo-600 bg-clip-text text-transparent">
-                                MailGen AI
+                                ColdMail AI
                             </span>
                         </div>
                         <div className="flex items-center space-x-4">
@@ -120,7 +120,7 @@ const LandingPage = () => {
                             Ready to scale your outreach?
                         </h2>
                         <p className="mx-auto mt-6 max-w-xl text-lg leading-8 text-gray-300">
-                            Join hundreds of sales professionals using MailGen to accelerate their pipeline today.
+                            Join hundreds of sales professionals using ColdMail to accelerate their pipeline today.
                         </p>
                         <div className="mt-10 flex items-center justify-center gap-x-6">
                             <Link
@@ -147,9 +147,9 @@ const LandingPage = () => {
             <footer className="bg-white border-t border-gray-100 py-12">
                 <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center flex flex-col items-center">
                     <span className="text-xl font-black bg-gradient-to-r from-gray-800 to-gray-600 bg-clip-text text-transparent mb-4">
-                        MailGen AI
+                        ColdMail AI
                     </span>
-                    <p className="text-gray-500 text-sm">© {new Date().getFullYear()} MailGen AI. All rights reserved.</p>
+                    <p className="text-gray-500 text-sm">© {new Date().getFullYear()} ColdMail AI. All rights reserved.</p>
                 </div>
             </footer>
         </div>
